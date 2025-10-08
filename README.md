@@ -1,3 +1,3 @@
 # CV
 
-this is a Web CV
+A simple HTML CV that is given for Assignment
